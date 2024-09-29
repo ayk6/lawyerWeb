@@ -1,7 +1,3 @@
-Tabii, aşağıda GitHub için daha kısa ve düzenli bir README taslağı bulabilirsiniz:
-
----
-
 # Law Firm Project
 
 A web application for managing a law firm’s operations, built with **ASP.NET Core** (backend) and **React** (frontend).
@@ -29,7 +25,7 @@ A web application for managing a law firm’s operations, built with **ASP.NET C
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/law-firm-project.git
+    git clone https://github.com/ayk6/lawyerWeb.git
     ```
 2. **Frontend**:
     ```bash
@@ -58,6 +54,3 @@ backend/
   └── Controllers/, Models/, Services/, Data/
 ```
 
----
-
-Bu yapı GitHub'da düzgün görüntülenecektir. Eğer daha fazla sadeleştirme veya özelleştirme istiyorsanız, belirtmeniz yeterli!
