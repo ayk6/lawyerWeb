@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LawyerWeb.Blog.Api.props" />
+</Project>

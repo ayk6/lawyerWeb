@@ -1,0 +1,13 @@
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\bin\Debug\net6.0\LawyerWeb.Blog.Application.Shared.deps.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\bin\Debug\net6.0\LawyerWeb.Blog.Application.Shared.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\bin\Debug\net6.0\LawyerWeb.Blog.Application.Shared.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.AssemblyInfoInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.AssemblyInfo.cs
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.csproj.CoreCompileInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.sourcelink.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\refint\LawyerWeb.Blog.Application.Shared.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\ref\LawyerWeb.Blog.Application.Shared.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Application.Shared\obj\Debug\net6.0\LawyerWeb.Blog.Application.Shared.csproj.AssemblyReference.cache

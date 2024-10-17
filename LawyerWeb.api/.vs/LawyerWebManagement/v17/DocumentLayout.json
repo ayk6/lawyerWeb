@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|c:\\users\\avahm\\desktop\\projects\\lawyerwebtemplate.api\\lawyerwebmanagement\\src\\api\\lawyerweb.blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|solutionrelative:src\\api\\lawyerweb.blog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|c:\\users\\avahm\\desktop\\projects\\lawyerwebtemplate.api\\lawyerwebmanagement\\src\\api\\lawyerweb.blog.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|solutionrelative:src\\api\\lawyerweb.blog.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|c:\\users\\avahm\\desktop\\projects\\lawyerwebtemplate.api\\lawyerwebmanagement\\src\\api\\lawyerweb.blog.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|solutionrelative:src\\api\\lawyerweb.blog.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|c:\\users\\avahm\\desktop\\projects\\lawyerwebtemplate.api\\lawyerwebmanagement\\src\\api\\lawyerweb.blog.api\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69174D-3D85-44EA-8801-99C997630D49}|src\\Api\\LawyerWeb.Blog.Api\\LawyerWeb.Blog.Api.csproj|solutionrelative:src\\api\\lawyerweb.blog.api\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:51:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwEAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:51:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:51:45.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\LawyerWebTemplate.Api\\LawyerWebManagement\\src\\Api\\LawyerWeb.Blog.Api\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "src\\Api\\LawyerWeb.Blog.Api\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:51:45.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

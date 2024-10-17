@@ -1,0 +1,16 @@
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\bin\Debug\net6.0\LawyerWeb.Blog.Domain.deps.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\bin\Debug\net6.0\LawyerWeb.Blog.Domain.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\bin\Debug\net6.0\LawyerWeb.Blog.Domain.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\bin\Debug\net6.0\Core.Data.EFCore.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\bin\Debug\net6.0\Core.Data.EFCore.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.csproj.AssemblyReference.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.AssemblyInfoInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.AssemblyInfo.cs
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.sourcelink.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\refint\LawyerWeb.Blog.Domain.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWeb.Blog.Domain.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\ref\LawyerWeb.Blog.Domain.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Domain\obj\Debug\net6.0\LawyerWe.10171FE0.Up2Date

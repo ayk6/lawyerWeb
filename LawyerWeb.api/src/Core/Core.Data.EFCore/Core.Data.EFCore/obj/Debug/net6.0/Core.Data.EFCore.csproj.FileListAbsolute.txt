@@ -1,0 +1,13 @@
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\bin\Debug\net6.0\Core.Data.EFCore.deps.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\bin\Debug\net6.0\Core.Data.EFCore.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\bin\Debug\net6.0\Core.Data.EFCore.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.csproj.AssemblyReference.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.AssemblyInfoInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.AssemblyInfo.cs
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.sourcelink.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\refint\Core.Data.EFCore.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\Core.Data.EFCore.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Core\Core.Data.EFCore\Core.Data.EFCore\obj\Debug\net6.0\ref\Core.Data.EFCore.dll

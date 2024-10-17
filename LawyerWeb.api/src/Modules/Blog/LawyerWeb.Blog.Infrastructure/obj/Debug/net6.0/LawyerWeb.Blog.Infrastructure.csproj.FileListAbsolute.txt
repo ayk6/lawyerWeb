@@ -1,0 +1,13 @@
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\bin\Debug\net6.0\LawyerWeb.Blog.Infrastructure.deps.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\bin\Debug\net6.0\LawyerWeb.Blog.Infrastructure.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\bin\Debug\net6.0\LawyerWeb.Blog.Infrastructure.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.AssemblyInfo.cs
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.sourcelink.json
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\refint\LawyerWeb.Blog.Infrastructure.dll
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\LawyerWeb.Blog.Infrastructure.pdb
+C:\Users\avahm\Desktop\Projects\LawyerWebTemplate.Api\LawyerWebManagement\src\Modules\Blog\LawyerWeb.Blog.Infrastructure\obj\Debug\net6.0\ref\LawyerWeb.Blog.Infrastructure.dll

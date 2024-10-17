@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vbAD63cYmXgdtRdsqKQzVckEhrFf35jJ/XIaFWkcbio=",
+  "Source": "LawyerWeb.Blog.Api",
+  "BasePath": "_content/LawyerWeb.Blog.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
