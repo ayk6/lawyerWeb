@@ -1,0 +1,285 @@
+{
+    "Header": {
+        "title": "LAWYER WEB",
+        "paragraph": "10 yıldan uzun süredir hizmet vermekte olan firmamız sektördeki önde gelen ve saygın hukuk firmalarından biridir."
+    },
+    "About": {
+        "paragraph1": "Hukuk Büromuz, hukuki ihtilafların çözümü konusunda uzmanlaşmış olup, gelecekte ortaya çıkabilecek ihtilafları önlemek amacıyla hukuki danışmanlık sunar. ",
+        "paragraph2": "10 yıldan uzun süredir hizmet vermekte olan firmamız sektördeki önde gelen ve saygın hukuk firmalarından biridir. Enerji sektöründen yatırım danışmanlığına, sigorta işlemlerinden tazminat davalarına ve ticaret hukukuna kadar geniş bir yelpazede hizmet veriyoruz.",
+        "Why": [
+            "Şeffaflık",
+            "Uzmanlık",
+            "Gizlilik",
+            "Çözüm odaklı"
+        ],
+        "Why2": [
+            "Deneyim",
+            "Hızlı ve Etkili Sonuç",
+            "Profesyonel Ekip",
+            "Müvekkil Öncelikli"
+        ]
+    },
+    "Gallery": [
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/02-large.jpg",
+            "smallImage": "img/portfolio/02-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/03-large.jpg",
+            "smallImage": "img/portfolio/03-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/04-large.jpg",
+            "smallImage": "img/portfolio/04-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/05-large.jpg",
+            "smallImage": "img/portfolio/05-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/06-large.jpg",
+            "smallImage": "img/portfolio/06-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/07-large.jpg",
+            "smallImage": "img/portfolio/07-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/08-large.jpg",
+            "smallImage": "img/portfolio/08-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/09-large.jpg",
+            "smallImage": "img/portfolio/09-small.jpg"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/ea.jpg",
+            "name": "M. Enes AYHAN",
+            "job": "Kurucu Ortak"
+        },
+        {
+            "img": "img/team/öf.jpg",
+            "name": "Ö. Faruk BOZDEMİR",
+            "job": "Kurucu Ortak"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ],
+    "Blog": [
+        {
+            "title": "Değer Kaybının Tazmini",
+            "content": "<p class='article-paragraph'>Araç sahipleri için, araçlarının değer kaybetmesi sıkça karşılaşılan bir durumdur. Ancak, araçta meydana gelen bir kaza veya hasar sonrasında oluşan değer kaybı, birçok kişi için önemli bir endişe kaynağı olabilir. Neyse ki, bu değer kaybını telafi etmek için bazı yollar ve haklar mevcuttur.</p><p class='article-paragraph'>Kaza sonrası değer kaybı, bir aracın kaza geçirmesinin ardından değerinde meydana gelen azalmayı ifade eder. Bu azalma, genellikle aracın yeniden satılabilir değerindeki düşüş olarak görülür. Özellikle ciddi hasarlar sonrasında, araçta oluşan bu değer kaybı dikkate değer olabilir.</p><p class='article-paragraph'>Birçok bölgede, araç sahiplerinin kaza sonrası değer kaybını telafi etme hakkı vardır. Bu tazminat genellikle, kusurlu olan tarafın (genellikle diğer sürücü veya sigorta şirketi) tazminat ödemesini içerir. Değer kaybının tazmini için, genellikle şu adımlar izlenir:</p><ul class='article-list'><li>Kaza sonrası aracınızın değer kaybını belirlemek için bir değerleme raporu alın.</li><li>Kaza nedeniyle değer kaybına uğrayan miktarı belirleyin ve bu miktarı karşı tarafa bildirin.</li><li>Kaza sonrası değer kaybını tazmin etmek için gerekli adımları atın, genellikle sigorta şirketi veya kusurlu taraf ile iletişime geçmek gerekebilir.</li></ul><p class='article-paragraph'>Değer kaybını azaltmanın bazı yolları vardır. Özellikle kaza sonrası yapılan onarımların kalitesini ve aracın durumunu korumak, değer kaybını minimize etmede önemlidir. Ayrıca, kaza sonrası değer kaybını azaltmanın bir diğer yolu da, aracın düzenli bakımını ve servislerini yaptırmak, aracın genel durumunu korumaya yardımcı olabilir.</p><p class='article-paragraph'>Araçta meydana gelen değer kaybı, kaza sonrası stresli bir durum olabilir. Ancak, haklarınızı bilmek ve doğru adımları atmaktan çekinmemek, bu kaybı telafi etmenize yardımcı olabilir.</p>",
+            "author": "John DOE",
+            "date": "2024-05-16"
+        },
+        {
+            "title": "title two",
+            "content": "content two content two content two content two content two content two content two content two content two content two",
+            "author": "author two",
+            "date": "2024-05-15"
+        },
+        {
+            "title": "title three",
+            "content": "content three content three content three content three content three content three content three content three",
+            "author": "author three",
+            "date": "2024-05-14"
+        },
+        {
+            "title": "Değer Kaybının Tazmini",
+            "content": "<p class='article-paragraph'>Araç sahipleri için, araçlarının değer kaybetmesi sıkça karşılaşılan bir durumdur. Ancak, araçta meydana gelen bir kaza veya hasar sonrasında oluşan değer kaybı, birçok kişi için önemli bir endişe kaynağı olabilir. Neyse ki, bu değer kaybını telafi etmek için bazı yollar ve haklar mevcuttur.</p><p class='article-paragraph'>Kaza sonrası değer kaybı, bir aracın kaza geçirmesinin ardından değerinde meydana gelen azalmayı ifade eder. Bu azalma, genellikle aracın yeniden satılabilir değerindeki düşüş olarak görülür. Özellikle ciddi hasarlar sonrasında, araçta oluşan bu değer kaybı dikkate değer olabilir.</p><p class='article-paragraph'>Birçok bölgede, araç sahiplerinin kaza sonrası değer kaybını telafi etme hakkı vardır. Bu tazminat genellikle, kusurlu olan tarafın (genellikle diğer sürücü veya sigorta şirketi) tazminat ödemesini içerir. Değer kaybının tazmini için, genellikle şu adımlar izlenir:</p><ul class='article-list'><li>Kaza sonrası aracınızın değer kaybını belirlemek için bir değerleme raporu alın.</li><li>Kaza nedeniyle değer kaybına uğrayan miktarı belirleyin ve bu miktarı karşı tarafa bildirin.</li><li>Kaza sonrası değer kaybını tazmin etmek için gerekli adımları atın, genellikle sigorta şirketi veya kusurlu taraf ile iletişime geçmek gerekebilir.</li></ul><p class='article-paragraph'>Değer kaybını azaltmanın bazı yolları vardır. Özellikle kaza sonrası yapılan onarımların kalitesini ve aracın durumunu korumak, değer kaybını minimize etmede önemlidir. Ayrıca, kaza sonrası değer kaybını azaltmanın bir diğer yolu da, aracın düzenli bakımını ve servislerini yaptırmak, aracın genel durumunu korumaya yardımcı olabilir.</p><p class='article-paragraph'>Araçta meydana gelen değer kaybı, kaza sonrası stresli bir durum olabilir. Ancak, haklarınızı bilmek ve doğru adımları atmaktan çekinmemek, bu kaybı telafi etmenize yardımcı olabilir.</p>",
+            "author": "John DOE",
+            "date": "2024-05-12"
+        },
+        {
+            "title": "title two",
+            "content": "content two content two content two content two content two content two content two content two",
+            "author": "author two",
+            "date": "2024-06-20"
+        },
+        {
+            "title": "title three",
+            "content": "ct 3 content a  three content three content three content three content three content three content three content t",
+            "author": "author three",
+            "date": "2024-06-10"
+        }
+    ],
+    "CardSlider": [
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        },
+        {
+            "name": "Sigorta Hukuku",
+            "img": "img/testimonials/01.jpg"
+        }
+    ]
+}

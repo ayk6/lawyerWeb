@@ -1,0 +1,44 @@
+@media (max-width: 991px) {
+    #about {
+        padding: 25px 0 !important;
+        max-width: 100%;
+    }
+
+    #about .row {
+        flex-direction: column;
+
+    }
+
+    #about .img-div,
+    #about .about-text {
+        display: flex;
+        flex-direction: column;
+        width: 96%;
+        align-self: center;
+    }
+
+    #about .img-div {
+        max-height: 20vh;
+    }
+
+    #about .about-img {
+        height: auto;
+    }
+
+    #about .text-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    #about p {
+        line-height: 21px !important;
+        margin: 7px 0 !important;
+        text-indent: 5rem;
+    }
+
+    #about h3,
+    #about h2 {
+        margin-bottom: 8px !important;
+        margin-top: 5px;
+    }
+}

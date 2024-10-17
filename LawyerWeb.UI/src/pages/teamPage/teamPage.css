@@ -1,0 +1,306 @@
+.text-center .container {
+    flex-direction: column !important;
+}
+
+.text-center .section-title h2 {
+    color: #DDDDDD;
+}
+
+.team-img {
+    filter: grayscale(50%);
+}
+
+.team-img:hover {
+    filter: grayscale(30%);
+    transition: filter 0.5s ease;
+}
+
+.team .thumbnail {
+    display: flex;
+    border: none;
+    padding: 0px;
+    transition: all 0.5s ease;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.team .thumbnail .caption {
+    position: relative;
+    background-color: gray;
+    background: #444444;
+    top: -30px;
+    padding: 8px 0;
+    z-index: 9;
+    max-width: 80%;
+    left: 10%;
+    border-bottom: 2px solid rgb(134, 114, 0);
+    text-align: center;
+    border-radius: 2px;
+}
+
+.team .team-img {
+    object-fit: cover;
+    border-radius: 2px;
+}
+
+.large-team .thumbnail {
+    padding: 0px;
+}
+
+.small-team .thumbnail {
+    padding: 0px;
+}
+
+.large-team .team-img {
+    height: 280px;
+    max-width: 290px;
+}
+
+.small-team .team-img {
+    height: 220px;
+    width: 90%;
+}
+
+.small-team {
+    padding: 5px !important;
+}
+
+.large-team {
+    padding: 10px !important;
+}
+
+@media (max-width: 792px) {
+    .large-team .caption h4 {
+        font-size: 4em;
+        line-height: 1rem;
+        margin-bottom: 1rem;
+        margin-top: 0.8rem;
+
+    }
+
+    .small-team .caption h4 {
+        font-size: 1.3em;
+        line-height: 1.1rem;
+        margin-bottom: 1rem;
+        margin-top: 0.8rem;
+        color: #dddddd;
+    }
+
+    .large-team .caption p {
+        font-size: 1em;
+        line-height: 1.3rem;
+        margin: 0;
+        color: #ccccccc5;
+    }
+
+    .small-team .caption p {
+        font-size: 0.9em;
+        line-height: 1.1rem;
+        margin: 0.2rem;
+        color: #ccccccc5;
+    }
+
+    .thumbnail {
+        margin-bottom: 15px !important;
+    }
+
+    .text-center .section-title {
+        padding: 0 3rem;
+        margin-bottom: 3rem;
+    }
+
+    .text-center .section-title h2 {
+        font-size: 2.7rem;
+    }
+
+    .text-center .section-title p {
+        font-size: 1.4rem;
+    }
+}
+
+
+@media (max-width: 642px) {
+    .small-team .team-img {
+        width: 100%;
+    }
+
+    .large-team .team-img {
+        max-width: 100%;
+    }
+}
+
+
+.large-team .caption h4 {
+    font-size: 1.4em;
+    line-height: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 0.8rem;
+    color: #dddddd;
+}
+
+.small-team .caption h4 {
+    font-size: 1.3em;
+    line-height: 1.1rem;
+    margin-bottom: 1rem;
+    margin-top: 0.8rem;
+    color: #dddddd;
+}
+
+.large-team .caption p {
+    font-size: 1em;
+    line-height: 1.3rem;
+    margin: 0;
+    color: #ccccccc5;
+}
+
+.small-team .caption p {
+    font-size: 0.9em;
+    line-height: 1.1rem;
+    margin: 0.2rem;
+    color: #ccccccc5;
+}
+
+@media (max-width: 792px) {
+    .large-team .caption h4 {
+        font-size: 1.1em;
+        margin-bottom: 1rem;
+        margin-top: 0.8rem;
+    }
+
+    .small-team .caption h4 {
+        font-size: 1em;
+        line-height: 1.1rem;
+        margin-bottom: 0.7rem;
+        margin-top: 0.3rem;
+    }
+
+    .large-team .caption p {
+        font-size: 0.95em;
+        line-height: 1rem;
+        margin-bottom: 0.2rem;
+    }
+
+    .small-team .caption p {
+        font-size: 0.75em;
+        line-height: 1rem;
+        margin: 0.3rem;
+    }
+
+    .team .thumbnail .caption {
+        max-width: 86%;
+        left: 7%;
+    }
+
+    .large-team .team-img {
+        height: 240px;
+    }
+
+    .small-team .team-img {
+        height: 200px;
+    }
+
+    .small-team {
+        padding: 4px !important;
+    }
+
+    .large-team {
+        padding: 5px !important;
+    }
+
+    .text-center {
+        padding-top: 2.5rem !important;
+    }
+}
+
+@media (max-width: 492px) {
+    .large-team .caption h4 {
+        font-size: 0.9em;
+        margin-bottom: 0.9rem;
+        margin-top: 0.7rem;
+    }
+
+    .small-team .caption h4 {
+        font-size: 0.8em;
+        line-height: 1rem;
+        margin-bottom: 0.7rem;
+        margin-top: 0.2rem;
+    }
+
+    .large-team .caption p {
+        font-size: 0.7em;
+        line-height: 1rem;
+        margin: 0;
+    }
+
+    .small-team .caption p {
+        font-size: 0.7em;
+        line-height: 0.9rem;
+        margin: 0.2rem;
+    }
+
+    .team .thumbnail .caption {
+        padding: 4px 0;
+        top: -25px;
+        max-width: 92%;
+        left: 4%;
+    }
+
+    .large-team .team-img {
+        height: 210px;
+    }
+
+    .small-team .team-img {
+        height: 170px;
+    }
+
+    .small-team {
+        padding: 3px !important;
+    }
+
+    .large-team {
+        padding: 4px;
+    }
+
+    .team-row {
+        padding: 0 !important;
+    }
+
+    .thumbnail {
+        margin-bottom: 10px !important;
+    }
+
+    .text-center .container {
+        padding: 5px !important;
+    }
+
+    .text-center .section-title {
+        padding: 0 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .text-center .section-title h2 {
+        font-size: 2.5rem;
+    }
+
+    .text-center .section-title p {
+        font-size: 1.3rem;
+    }
+
+    .text-center {
+        padding-top: 3px !important;
+    }
+}
+
+
+
+.team-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+}

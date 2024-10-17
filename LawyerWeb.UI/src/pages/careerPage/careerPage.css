@@ -1,0 +1,70 @@
+.career-body {
+    background-image: url(./../../../public/img/law-firm-concept.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    width: 100%;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    z-index: 0;
+    position: relative;
+}
+
+.career-body .overlay {
+    background: linear-gradient(to right, #242b696b 0%, #21456b7a 100%);
+}
+
+.career-body h1 {
+    text-align: start;
+    font-family: "Raleway", sans-serif;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.career-body p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 25px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    text-align: start;
+}
+
+@media (max-width: 768px) {
+    .career-body h1 {
+        font-size: 35px;
+    }
+
+    .career-body p {
+        font-size: 19px;
+        line-height: 21px;
+    }
+}
+
+@media (max-width: 480px) {
+    .career-body h1 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .career-body p {
+        font-size: 15px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+}
+
+
+.career-body .intro-text {
+    padding-top: 130px;
+    padding-bottom: 110px;
+    text-align: left;
+}

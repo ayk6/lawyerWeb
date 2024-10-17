@@ -1,0 +1,139 @@
+.comment-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+
+}
+
+.article-comment-card {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    word-wrap: break-word;
+    font-size: small;
+    background-color: #cfcfcf;
+    box-sizing: border-box;
+}
+
+@media (min-width: 992px) {
+
+    .article-container {
+        padding: 10px 25px !important;
+    }
+}
+
+.comment-media {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.comment-media img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+
+.comment-media h5 {
+    margin: 0.1rem 0;
+    line-height: 1rem;
+
+}
+
+.comment-header {
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(99, 99, 99);
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.comment-body {
+    margin: -1.5rem 0 0.3rem 6rem;
+    color: rgb(87, 87, 87);
+}
+
+.comment-time {
+    margin-right: 1rem;
+    font-size: smaller;
+    color: rgb(116, 116, 116) !important;
+}
+
+.admin-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.nested-comment {
+    margin-left: 2rem;
+    margin-top: 0;
+    position: relative;
+}
+
+.nested-comment .comment-reply {
+    display: none;
+}
+
+
+.nested-comment::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 50%;
+    border-left: 2px solid #8f8f8f;
+    transform: translateX(2px) translateY(-15px);
+    z-index: 1;
+}
+
+@media (max-width: 778px) {
+    .article-comment-card {
+        padding: 5px 5px;
+        font-size: small;
+    }
+
+    .comment-media img {
+        width: 35px;
+        height: 35px;
+        margin-right: 0.6rem;
+    }
+
+    .comment-header .user-info h5 {
+        font-size: small;
+    }
+
+    .comment-time {
+        font-size: smaller;
+    }
+
+    .comment-body {
+        margin-left: 4.3rem;
+    }
+
+    .nested-comment {
+        margin-left: 2rem;
+        margin-top: -0.5rem;
+    }
+
+    .nested-comment::before {
+        height: 35%;
+        transform: translateX(-3px) translateY(-12px);
+
+    }
+}
+
+.comment-container .modal .modal-title {
+    color: rgb(177, 0, 0);
+}
+
+.comment-container .modal .modal-body {
+    color: rgb(56, 56, 56);
+}

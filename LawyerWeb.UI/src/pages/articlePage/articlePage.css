@@ -1,0 +1,139 @@
+.article-page-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.article-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(173, 173, 173, 0.527);
+    background-color: #cfcfcf;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.article-comment-container {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #d6d6d681;
+    border-radius: 11px;
+    padding: 1rem;
+    background-color: #cfcfcf;
+    box-shadow: 0 0 10px rgba(173, 173, 173, 0.527);
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+@media (min-width: 1200px) {
+
+    .article-comment-container {
+        padding: 1rem 2rem !important;
+    }
+}
+
+.article-container h1 {
+    margin-bottom: 10px;
+    color: #3a3a3a;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 36px;
+    font-family: "Raleway", sans-serif;
+}
+
+.article-container h2 {
+    margin-bottom: 6px;
+    color: #3a3a3a;
+    font-weight: 700 !important;
+    font-size: 26px !important;
+}
+
+.article-container h3 {
+    margin: 4px;
+    color: #3a3a3a;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+}
+
+.article-container h5 {
+    font-size: 1em;
+    margin-bottom: 5px;
+    color: #666666;
+}
+
+.article-container div {
+    font-size: 1em;
+    margin-bottom: 5px;
+    color: #666666;
+}
+
+.article-container p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #363636;
+}
+
+.article-container ul {
+    list-style-type: disc;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    color: #363636;
+}
+
+.article-container ul li {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.article-comment-container>div>div {
+    border-top: #86868667 solid 1px;
+}
+
+.article-comment-container>div>div:first-child {
+    border-top: none;
+}
+
+.article-title {
+    margin-top: 0;
+}
+
+.article-title:after {
+    content: "";
+    display: block;
+    background-image: linear-gradient(to right, #D4AF37 0%, #eeca00 100%);
+    height: 3px;
+    width: 20%;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+.article-list {
+    margin-left: 2em;
+}
+
+.article-paragraph {
+    text-align: justify;
+    text-indent: 1.5em;
+}
+
+.no-comment {
+    background-color: #cfcfcf;
+    padding: 2rem 1rem 1rem 2rem;
+    color: #474747;
+}
+
+.article-comment-container .comments-header {
+    text-align: center;
+    color: #494949;
+    border-bottom: #86868667 solid 1px;
+    margin-top: 3rem;
+}
+
+@media (min-width: 798px) {
+
+    .no-comment {}
+}

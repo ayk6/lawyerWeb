@@ -1,0 +1,41 @@
+.admin-categories-container {
+
+    .table th,
+    .table td {
+        vertical-align: middle;
+        line-height: 1.2rem;
+        padding: 5px 7px;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+        max-width: 90% !important;
+        margin: 5% !important;
+    }
+
+    .btn {
+        border-radius: 10px;
+        padding: 4px 10px;
+    }
+
+    @media (max-width: 492px) {
+        .btn {
+            padding: 4px 7px;
+            font-size: 0.8rem;
+            margin-right: 5px !important;
+        }
+
+        .table {
+            font-size: 0.8rem;
+        }
+    }
+
+    .insert-category {
+        display: flex;
+        justify-content: end;
+
+        .btn {
+            margin-top: 0.5rem !important;
+            margin-right: 0.5rem;
+        }
+    }
+}

@@ -1,0 +1,118 @@
+.admin-comment-container {
+
+    padding: 20px;
+    background-color: #f9f9f998;
+    border-radius: 8px;
+
+    .table th,
+    .table td {
+        vertical-align: middle;
+        line-height: 1.2rem;
+        padding: 5px 7px;
+    }
+
+    .form-control {
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .article-dropdown {
+        margin-bottom: 2rem;
+    }
+
+    .dropdown-icon-div {
+        display: flex;
+        justify-content: end;
+        height: 0;
+        pointer-events: none;
+
+        .dropdown-icon {
+            transform: translateY(-27px);
+            font-size: larger;
+            margin-right: 5px;
+
+        }
+    }
+
+    .btn {
+        border-radius: 10px;
+        padding: 4px 9px;
+    }
+
+    @media (max-width: 768px) {
+        max-width: 98% !important;
+        margin: 1% !important;
+
+
+        .add-reply-button {
+            padding: 4px 7px;
+            font-size: 0.8rem;
+        }
+
+        .btn {
+            padding: 4px 7px;
+            font-size: 0.8rem;
+            margin-right: 5px !important;
+            border-radius: 5px;
+        }
+
+        .table {
+            font-size: 0.8rem;
+        }
+    }
+
+    @media (max-width: 520px) {
+        .btn {
+            padding: 4px 7px;
+            font-size: 0.8rem;
+            margin-right: 5px !important;
+        }
+
+        .table {
+            font-size: 0.8rem;
+        }
+    }
+
+    @media (max-width: 492px) {
+        max-width: 100% !important;
+        margin: 0 !important;
+
+        .add-reply-button {
+            padding: 4px 6px;
+            font-size: 0.7rem;
+        }
+
+        .btn {
+            padding: 4px 6px;
+            font-size: 0.7rem;
+            margin-right: 3px !important;
+        }
+
+        .table {
+            font-size: 0.7rem;
+        }
+    }
+
+    .insert-article {
+        display: flex;
+        justify-content: end;
+
+        .btn {
+            margin-top: 0.5rem !important;
+            margin-right: 0.5rem;
+        }
+    }
+
+    .add-reply-button {
+        background-color: #39f;
+        color: whitesmoke;
+        border-radius: 10px;
+        padding: 4px 9px;
+        text-decoration: none;
+    }
+
+    .add-reply-button:hover {
+        background-color: #52a8ff;
+        color: whitesmoke;
+    }
+}

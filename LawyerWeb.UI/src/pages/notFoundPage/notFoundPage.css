@@ -1,0 +1,23 @@
+.notfound-page {
+    text-align: center;
+}
+
+.notfound-page .logo h5 {
+    margin: 0;
+    margin-top: 5rem;
+    font-size: 3rem;
+    color: #242424;
+    margin-bottom: 15px;
+}
+
+.notfound-page .message h1 {
+    font-size: 8rem;
+    margin: 0;
+    color: #333;
+}
+
+.notfound-page .message p {
+    font-size: 2rem;
+    color: #666;
+    margin: 15px 0 35px 0;
+}

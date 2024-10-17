@@ -1,0 +1,87 @@
+.comment-form {
+    display: flex;
+    flex-direction: column;
+    background-color: #cfcfcf !important;
+    padding: 1.2rem;
+    margin: 0;
+}
+
+.comment-form h4 {
+    color: rgb(65, 65, 65);
+}
+
+.comment-form span {
+    margin-top: -10px;
+    color: rgb(90, 90, 90);
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #d2d2dc;
+    border-radius: 5px;
+    resize: none;
+    margin-top: 1rem;
+    background-color: #e4e4e4;
+    color: rgb(73, 73, 73);
+
+}
+
+.input:focus {
+    border: 1px solid #c7c7d3;
+    outline: 1px solid #c7c7d3;
+}
+
+.name-phone-section {
+    display: flex;
+    gap: 1rem;
+}
+
+@media (max-width: 492px) {
+    .name-phone-section {
+        flex-direction: column;
+    }
+}
+
+.error {
+    margin-top: -1rem;
+    margin-left: 0.8rem;
+    margin-bottom: 0.5rem;
+    color: rgba(255, 0, 0, 0.733);
+}
+
+.name-section {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.phone-section {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.comment-submit {
+    align-self: flex-end;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.comment-submit:hover {
+    background-color: #0056b3;
+}
+
+.comment-submit:disabled {
+    pointer-events: none;
+    opacity: 0.8;
+}
+
+.comment-submit:disabled:hover {
+    cursor: not-allowed;
+}

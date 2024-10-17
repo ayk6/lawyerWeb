@@ -1,0 +1,66 @@
+.edit-article-container {
+    padding: 20px;
+    background-color: #f9f9f998;
+    border-radius: 8px;
+
+    .edit-article-title .form-control,
+    .edit-article-writer .form-control,
+    .edit-article-category .form-control {
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+
+    .edit-article-writer {
+        margin-top: 3.2rem !important;
+
+        @media (max-width: 768px) {
+            margin-top: 4.7rem !important;
+        }
+
+        @media (max-width: 409px) {
+            margin-top: 5.9rem !important;
+        }
+
+        @media (max-width: 309px) {
+            margin-top: 7.6rem !important;
+        }
+    }
+
+    .form-label {
+        margin-bottom: 0.2rem;
+        padding: 0 0.2rem;
+    }
+
+    .dropdown-icon-div {
+        display: flex;
+        justify-content: end;
+        height: 0;
+        pointer-events: none;
+
+        .dropdown-icon {
+            transform: translateY(-27px);
+            font-size: larger;
+            margin-right: 5px;
+
+        }
+    }
+
+    .quill {
+        height: 300px;
+        margin-bottom: 20px;
+
+        .ql-toolbar {
+            border-radius: 4px 4px 0 0;
+        }
+
+        .ql-container {
+            border-radius: 0 0 4px 4px;
+        }
+    }
+
+    .btn {
+        margin: 5px;
+        border-radius: 5px;
+    }
+}

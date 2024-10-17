@@ -1,0 +1,7 @@
+.admin-layout {
+    @import "variables"; // Eğer özel değişkenleriniz varsa
+    @import "@coreui/coreui/scss/coreui";
+    @import "vendors/simplebar";
+    @import "theme"; // Tema ile ilgili özelleştirmeler
+    @import "custom"; // Diğer özel stiller
+}

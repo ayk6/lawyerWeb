@@ -1,0 +1,38 @@
+@media screen and (max-width: 400px) {
+    #features {
+        padding: 20px;
+        width: 111%;
+    }
+
+    #about,
+    #services,
+    #testimonials,
+    #team,
+    #contact,
+    #footer {
+        width: 111%;
+    }
+
+    #portfolio {
+        width: 110%;
+    }
+}
+
+/* App.css */
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+.react-toast-notifications__container {
+    top: 100px !important;
+    right: 20px !important;
+    position: fixed;
+    z-index: 9999;
+}
