@@ -29,13 +29,13 @@ A web application for managing a law firm’s operations, built with **ASP.NET C
     ```
 2. **Frontend**:
     ```bash
-    cd frontend
+    cd lawyerWeb.UI
     npm install
     npm start
     ```
 3. **Backend**:
     ```bash
-    cd backend
+    cd lawyerWeb.api
     dotnet restore
     dotnet ef database update
     dotnet run
