@@ -47,7 +47,7 @@ A web application for managing a law firm’s operations, built with **ASP.NET C
 
 ## Project Structure
 ```bash
-frontend/
+lawyerWeb.UI/
   └── src/
       └── components/, pages/, services/, styles/
 backend/
